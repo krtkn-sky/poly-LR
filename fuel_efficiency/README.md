@@ -26,6 +26,8 @@ This dataset contains information about various car models and their correspondi
 
 The Python code provided in this repository uses polynomial regression to predict fuel efficiency based on the provided dataset. The code is implemented using the scikit-learn library for machine learning.
 
+You can tweak the `degree` parameter in the PolynomialFeatures to achieve more precise regression predictions. For instance, setting `degree=2` may yield a more accurate prediction depending on the dataset and the underlying relationship.
+
 ### Dependencies
 
 To run the code, you will need to have the following Python libraries installed:
