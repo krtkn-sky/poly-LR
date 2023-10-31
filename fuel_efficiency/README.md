@@ -41,4 +41,8 @@ You can install these dependencies using pip:
 
 ```bash
 pip install numpy matplotlib pandas scikit-learn
+```
 
+### Result
+
+![image](https://github.com/krtkn-sky/poly-LR/assets/121655285/47271d9d-4026-4170-8a11-f732707b47d3)
